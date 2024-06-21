@@ -1,4 +1,4 @@
-E-Banking Project
+E-Banking Project:
 Welcome to my second e-project: E-Banking! This platform allows users to perform various banking operations like transactions and withdrawals with ease. It's built with ASP.NET MVC, C#, and a touch of JavaScript to bring everything together.
 
 Technologies Used
